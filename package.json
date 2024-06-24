@@ -1,0 +1,11 @@
+{
+  "name": "leetcode-sheet",
+  "version": "1.0.0",
+  "description": "Leetcode problems with solutions and notes",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "ErenYLCN",
+  "license": "ISC"
+}
